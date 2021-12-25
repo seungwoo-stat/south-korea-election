@@ -2,8 +2,6 @@
 
 Election results in South Korea (Republic of Korea), for compositional data analysis. 
 
-Invalid and blank ballots (무효표, 기권표) are omitted from the data.
-
 Number of blank ballots refers to the number of voters who did not vote, even though they have voting rights.
 
 - e.g. those who did not come to the polling station — blank ballot count
