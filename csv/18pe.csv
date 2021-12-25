@@ -1,0 +1,252 @@
+"primary_cluster","secondary_cluster","Park Geun-hye (Saenuri)","Moon Jae-in (Democratic United)","Park Jong-sun (Independent)","Kim So-yeon (Independent)","Kang Ji-won (Independent)","Kim Soon-ja (Independent)","invalid","blank"
+"Busan","Jung-gu",19208,10567,5,10,34,29,86,12184
+"Busan","Seo-gu",48129,26426,22,38,104,150,271,28556
+"Busan","Dong-gu",40262,22338,14,29,81,91,179,22151
+"Busan","Yeongdo-gu",50903,35314,16,38,91,106,297,32716
+"Busan","Busanjin-gu",146883,99987,68,118,289,265,635,80176
+"Busan","Dongnae-gu",108913,68281,44,68,232,176,460,50538
+"Busan","Nam-gu",111763,72244,44,72,226,180,470,55344
+"Busan","Buk-gu",111611,83710,45,99,251,205,566,54477
+"Busan","Haeundae-gu",155263,103287,53,93,443,241,686,80454
+"Busan","Gijang-gun",41164,26084,17,24,77,83,245,21447
+"Busan","Saha-gu",125432,89012,64,83,245,203,700,70422
+"Busan","Geumjeong-gu",100400,63126,50,75,235,177,473,47657
+"Busan","Gangseo-gu",24560,16494,9,13,32,67,144,13364
+"Busan","Yeonje-gu",81370,53294,27,57,210,142,350,38925
+"Busan","Suyeong-gu",70198,43059,28,41,166,88,276,35104
+"Busan","Sasang-gu",88100,69288,49,55,162,186,456,48486
+"Chungcheongbuk-do","Sangdang-gu, Cheongju-si",76695,64194,49,71,173,168,448,43699
+"Chungcheongbuk-do","Heungdeok-gu, Cheongju-si",124308,119523,90,129,348,297,639,77065
+"Chungcheongbuk-do","Chungju-si",73561,48264,45,70,212,273,399,43794
+"Chungcheongbuk-do","Jecheon-si",50284,31682,32,42,151,195,361,28108
+"Chungcheongbuk-do","Danyang-gun",12957,6510,12,8,51,105,120,6723
+"Chungcheongbuk-do","Cheongwon-gun",46968,43359,43,52,149,262,410,30321
+"Chungcheongbuk-do","Yeongdong-gun",20397,11169,20,35,57,156,210,10710
+"Chungcheongbuk-do","Boeun-gun",13783,8261,17,13,56,129,172,7088
+"Chungcheongbuk-do","Okcheon-gun",21799,11691,21,36,64,189,230,10382
+"Chungcheongbuk-do","Eumseong-gun",30459,21825,40,34,108,160,317,21784
+"Chungcheongbuk-do","Jincheon-gun",20614,15560,18,25,59,106,161,13752
+"Chungcheongbuk-do","Goesan-gun",15442,8646,16,18,61,147,172,8488
+"Chungcheongbuk-do","Jeungpyeong-gun",11175,8223,7,9,22,54,86,7140
+"Chungcheongnam-do","Seobuk-gu, Cheonan-si",87555,87706,53,97,255,198,494,65996
+"Chungcheongnam-do","Dongnam-gu, Cheonan-si",78289,65604,47,49,213,247,427,54232
+"Chungcheongnam-do","Gongju-si",39883,30141,39,30,109,218,358,25349
+"Chungcheongnam-do","Boryeong-si",38636,23493,33,34,108,233,342,23261
+"Chungcheongnam-do","Asan-si",81388,72189,51,101,232,237,500,57684
+"Chungcheongnam-do","Seosan-si",53072,38595,40,74,160,281,449,33728
+"Chungcheongnam-do","Taean-gun",24128,13435,19,31,52,197,216,14802
+"Chungcheongnam-do","Geumsan-gun",20470,12762,15,21,75,182,198,12865
+"Chungcheongnam-do","Nonsan-si",39225,34402,51,41,147,236,419,29301
+"Chungcheongnam-do","Gyeryong-si",13572,9934,4,15,48,28,60,6271
+"Chungcheongnam-do","Dangjin-si",50429,35909,33,64,130,211,327,35349
+"Chungcheongnam-do","Buyeo-gun",28725,16461,55,52,130,209,448,15724
+"Chungcheongnam-do","Seocheon-gun",20671,15102,20,25,83,190,263,13874
+"Chungcheongnam-do","Hongseong-gun",32170,19514,20,24,92,228,249,19698
+"Chungcheongnam-do","Cheongyang-gun",13490,6989,17,15,54,137,147,6717
+"Chungcheongnam-do","Yesan-gun",37225,15394,19,15,88,166,262,18805
+"Daegu","Jung-gu",39910,9282,10,14,47,73,127,15475
+"Daegu","Dong-gu",176185,43659,68,95,294,302,668,58794
+"Daegu","Seo-gu",120625,22092,37,56,152,226,361,42223
+"Daegu","Nam-gu",88347,20092,30,47,156,162,241,34751
+"Daegu","Buk-gu",220974,56240,52,101,368,326,661,68432
+"Daegu","Suseong-gu",225052,60016,46,94,441,244,586,67078
+"Daegu","Dalseo-gu",304535,76363,82,163,427,407,897,89722
+"Daegu","Dalseong-gun",92161,21290,41,54,158,244,425,28465
+"Daejeon","Dong-gu",77725,71702,43,72,200,185,417,52374
+"Daejeon","Jung-gu",85297,73173,42,71,230,172,463,50946
+"Daejeon","Seo-gu",144068,148011,87,148,414,296,743,89088
+"Daejeon","Yuseong-gu",81928,96401,55,92,282,147,424,46607
+"Daejeon","Daedeok-gu",61558,59023,44,78,165,169,442,38939
+"Gangwon-do","Chuncheon-si",93414,69365,60,104,276,245,517,51950
+"Gangwon-do","Wonju-si",105702,75943,55,110,280,282,565,68438
+"Gangwon-do","Gangneung-si",85045,43750,41,50,200,233,457,45301
+"Gangwon-do","Donghae-si",36139,18511,18,23,68,99,225,19490
+"Gangwon-do","Samcheok-si",28849,14874,32,72,80,216,329,16272
+"Gangwon-do","Taebaek-si",18850,9935,10,11,34,51,102,11415
+"Gangwon-do","Jeongseon-gun",15188,8610,11,6,45,126,130,9665
+"Gangwon-do","Sokcho-si",29651,17671,16,19,66,61,150,18663
+"Gangwon-do","Goseong-gun",12689,6285,11,9,44,49,90,6492
+"Gangwon-do","Yangyang-gun",12007,5869,9,7,19,45,99,5529
+"Gangwon-do","Inje-gun",12156,7320,11,11,38,93,133,6472
+"Gangwon-do","Hongcheon-gun",26715,15201,18,20,75,141,236,15057
+"Gangwon-do","Hoengseong-gun",17876,9502,13,19,50,116,147,9617
+"Gangwon-do","Yeongwol-gun",15515,9021,12,16,55,110,124,8974
+"Gangwon-do","Pyeongchang-gun",16406,9381,6,8,53,100,130,10394
+"Gangwon-do","Hwacheon-gun",9838,5139,20,11,45,49,126,5117
+"Gangwon-do","Yanggu-gun",8547,4957,3,13,33,41,71,4368
+"Gangwon-do","Cheorwon-gun",18289,9536,10,15,53,57,103,10445
+"Gwangju","Dong-gu",6693,61023,105,39,112,47,383,20350
+"Gwangju","Seo-gu",15648,178033,40,56,210,116,497,45298
+"Gwangju","Nam-gu",11307,125439,27,48,191,83,515,34027
+"Gwangju","Buk-gu",20378,255181,44,114,344,153,714,67641
+"Gwangju","Gwangsan-gu",15548,204061,52,76,256,162,721,52049
+"Gyeonggi-do","Jangan-gu, Suwon-si",85548,88360,45,96,375,168,503,50659
+"Gyeonggi-do","Gwonseon-gu, Suwon-si",94970,96064,57,109,330,183,584,66456
+"Gyeonggi-do","Paldal-gu, Suwon-si",63522,57156,36,63,197,147,355,46308
+"Gyeonggi-do","Yeongtong-gu, Suwon-si",74873,89927,40,72,305,116,408,42557
+"Gyeonggi-do","Sujeong-gu, Seongnam-si",62526,74640,44,68,235,128,438,55534
+"Gyeonggi-do","Jungwon-gu, Seongnam-si",68309,78261,35,74,214,158,516,58878
+"Gyeonggi-do","Bundang-gu, Seongnam-si",162103,142315,60,105,732,218,795,75140
+"Gyeonggi-do","Uijeongbu-si",127092,120550,64,117,368,237,801,88716
+"Gyeonggi-do","Manan-gu, Anyang-si",76396,79472,39,87,262,131,472,49815
+"Gyeonggi-do","Dongan-gu, Anyang-si",103793,116384,54,111,471,176,583,55255
+"Gyeonggi-do","Wonmi-gu, Bucheon-si",121498,144862,78,145,444,253,727,86862
+"Gyeonggi-do","Sosa-gu, Bucheon-si",64835,74327,34,106,217,126,488,45864
+"Gyeonggi-do","Ojeong-gu, Bucheon-si",50291,57987,35,54,171,128,349,42724
+"Gyeonggi-do","Gwangmyeong-si",94631,120851,60,132,354,211,683,61153
+"Gyeonggi-do","Pyeongtaek-si",135781,101951,83,181,424,351,773,94230
+"Gyeonggi-do","Yangju-si",61889,49201,42,60,165,139,387,42480
+"Gyeonggi-do","Dongducheon-si",31188,21296,25,27,92,65,291,24118
+"Gyeonggi-do","Sangnok-gu, Ansan-si",97913,112075,61,140,345,209,628,81053
+"Gyeonggi-do","Danwon-gu, Ansan-si",87893,95849,48,104,308,168,533,71343
+"Gyeonggi-do","Deogyang-gu, Goyang-si",114871,118515,63,120,477,227,768,75364
+"Gyeonggi-do","Ilsandong-gu, Goyang-si",80535,85504,41,104,336,127,448,52828
+"Gyeonggi-do","Ilsanseo-gu, Goyang-si",81992,88785,41,87,342,148,418,48604
+"Gyeonggi-do","Gwacheon-si",22507,21923,10,37,165,46,165,10804
+"Gyeonggi-do","Uiwang-si",45541,48412,13,53,218,82,248,25067
+"Gyeonggi-do","Guri-si",56748,56219,27,47,209,112,336,36481
+"Gyeonggi-do","Namyangju-si",171230,161920,85,142,524,323,1099,118893
+"Gyeonggi-do","Osan-si",52301,53507,26,67,166,129,290,41493
+"Gyeonggi-do","Hwaseong-si",140538,146338,75,167,472,329,785,96465
+"Gyeonggi-do","Siheung-si",102267,112012,69,102,360,217,638,86054
+"Gyeonggi-do","Gunpo-si",80722,94255,44,100,336,156,467,46760
+"Gyeonggi-do","Hanam-si",47676,40221,23,22,154,90,322,29986
+"Gyeonggi-do","Paju-si",114672,106323,68,114,348,326,702,79600
+"Gyeonggi-do","Yeoju-gun",40504,21766,27,45,101,166,273,24933
+"Gyeonggi-do","Icheon-si",66241,45996,55,63,190,171,553,44219
+"Gyeonggi-do","Cheoin-gu, Yongin-si",67598,49828,44,63,215,157,460,46201
+"Gyeonggi-do","Suji-gu, Yongin-si",101487,93337,39,72,402,125,414,48895
+"Gyeonggi-do","Giheung-gu, Yongin-si",104957,110907,28,82,421,155,461,60315
+"Gyeonggi-do","Anseong-si",57656,43967,35,52,183,172,399,39796
+"Gyeonggi-do","Gimpo-si",88962,74859,41,68,298,156,488,53636
+"Gyeonggi-do","Gwangju-si",84388,72299,45,67,214,163,619,57060
+"Gyeonggi-do","Pocheon-si",56633,31751,40,40,141,181,386,37182
+"Gyeonggi-do","Yeoncheon-gun",17989,9359,23,20,73,73,179,10080
+"Gyeonggi-do","Yangpyeong-gun",40862,20857,39,51,125,190,324,22321
+"Gyeonggi-do","Gapyeong-gun",24987,11696,56,38,98,143,298,13318
+"Gyeongsangbuk-do","Buk-gu, Pohang-si",131547,33470,48,54,177,302,568,45662
+"Gyeongsangbuk-do","Nam-gu, Pohang-si",121186,32833,43,52,193,293,531,45589
+"Gyeongsangbuk-do","Ulleung-gun",5033,1207,2,2,7,21,37,3159
+"Gyeongsangbuk-do","Gyeongju-si",132579,34357,59,99,230,435,783,46206
+"Gyeongsangbuk-do","Gimcheon-si",73115,14072,30,41,96,299,504,22873
+"Gyeongsangbuk-do","Andong-si",84799,21028,67,55,156,486,642,29438
+"Gyeongsangbuk-do","Gumi-si",197062,47485,52,104,185,372,584,67150
+"Gyeongsangbuk-do","Yeongju-si",56360,15493,32,33,88,269,339,19819
+"Gyeongsangbuk-do","Yeongcheon-si",54748,11372,27,28,80,228,441,19392
+"Gyeongsangbuk-do","Sangju-si",58560,10254,26,34,89,462,473,18098
+"Gyeongsangbuk-do","Mungyeong-si",41762,7609,24,27,69,226,349,13402
+"Gyeongsangbuk-do","Yecheon-gun",26663,4564,112,47,55,261,432,7929
+"Gyeongsangbuk-do","Gyeongsan-si",118865,30881,124,120,280,322,799,44517
+"Gyeongsangbuk-do","Cheongdo-gun",25625,4830,16,16,34,175,250,8015
+"Gyeongsangbuk-do","Goryeong-gun",20030,3437,14,17,39,146,164,6473
+"Gyeongsangbuk-do","Seongju-gun",26511,4077,12,13,36,177,193,8255
+"Gyeongsangbuk-do","Chilgok-gun",57485,13560,14,29,68,158,257,21778
+"Gyeongsangbuk-do","Gunwi-gun",15457,2126,4,9,20,105,127,4033
+"Gyeongsangbuk-do","Uiseong-gun",34294,5167,23,15,44,284,262,11520
+"Gyeongsangbuk-do","Cheongsong-gun",15054,2946,16,8,19,146,121,5135
+"Gyeongsangbuk-do","Yeongyang-gun",9818,2247,9,8,20,109,110,3593
+"Gyeongsangbuk-do","Yeongdeok-gun",23816,3314,11,12,25,161,196,7680
+"Gyeongsangbuk-do","Bonghwa-gun",18408,3989,37,38,60,261,213,6451
+"Gyeongsangbuk-do","Uljin-gun",26387,6341,8,12,49,188,236,9698
+"Gyeongsangnam-do","Uichang-gu, Changwon-si",93834,60126,78,83,216,215,754,44626
+"Gyeongsangnam-do","Seongsan-gu, Changwon-si",82487,67332,82,113,231,149,518,35647
+"Gyeongsangnam-do","Masanhappo-gu, Changwon-si",82970,34740,72,51,144,224,628,34389
+"Gyeongsangnam-do","Masanhoewon-gu, Changwon-si",91940,45353,76,52,154,182,631,37629
+"Gyeongsangnam-do","Jinhae-gu, Changwon-si",68464,37511,60,57,122,124,494,31680
+"Gyeongsangnam-do","Jinju-si",140404,66038,152,105,294,498,1395,55515
+"Gyeongsangnam-do","Tongyeong-si",56873,24216,53,42,101,253,580,28499
+"Gyeongsangnam-do","Goseong-gun",25076,9673,70,27,53,217,439,12672
+"Gyeongsangnam-do","Sacheon-si",48033,21237,59,35,81,254,672,21896
+"Gyeongsangnam-do","Gimhae-si",150925,137372,144,112,310,377,1372,91545
+"Gyeongsangnam-do","Miryang-si",47709,20591,76,42,92,243,664,22023
+"Gyeongsangnam-do","Geoje-si",71757,57003,61,82,165,288,810,46333
+"Gyeongsangnam-do","Uiryeong-gun",13848,4904,50,11,43,199,376,6332
+"Gyeongsangnam-do","Haman-gun",28741,12748,56,27,68,167,401,12868
+"Gyeongsangnam-do","Changnyeong-gun",29793,10046,50,19,54,238,492,13278
+"Gyeongsangnam-do","Yangsan-si",93167,64467,91,61,170,199,732,48591
+"Gyeongsangnam-do","Hadong-gun",21848,11193,70,50,56,248,591,9459
+"Gyeongsangnam-do","Namhae-gun",21551,9756,75,17,51,186,454,10063
+"Gyeongsangnam-do","Hamyang-gun",18736,7014,40,26,59,250,375,7826
+"Gyeongsangnam-do","Sancheong-gun",16979,5996,91,30,51,189,402,7255
+"Gyeongsangnam-do","Geochang-gun",28726,10466,61,22,75,244,509,11670
+"Gyeongsangnam-do","Hapcheon-gun",25313,7114,70,20,64,382,623,10395
+"Incheon","Jung-gu",30613,24538,13,25,116,66,214,23021
+"Incheon","Dong-gu",25911,20584,15,29,66,75,157,15950
+"Incheon","Nam-gu",133464,108637,79,132,394,297,679,96084
+"Incheon","Yeonsu-gu",91538,79429,52,80,315,163,491,52330
+"Incheon","Namdong-gu",148815,143099,81,182,458,275,739,100321
+"Incheon","Bupyeong-gu",159386,168820,104,242,553,357,956,115291
+"Incheon","Gyeyang-gu",92670,103499,53,120,357,213,554,70433
+"Incheon","Seo-gu",131340,129603,74,152,350,280,709,91142
+"Incheon","Ganghwa-gun",29666,12534,26,29,84,125,241,14565
+"Incheon","Ongjin-gun",9197,3470,11,14,37,59,115,4408
+"Jeju-do","Jeju-si",119563,119622,94,164,473,570,1066,86898
+"Jeju-do","Seogwipo-si",46621,41613,54,76,194,291,566,33866
+"Jeollabuk-do","Wansan-gu, Jeonju-si",27095,193995,48,116,362,116,572,55946
+"Jeollabuk-do","Deokjin-gu, Jeonju-si",20283,151196,39,117,268,108,420,45524
+"Jeollabuk-do","Gunsan-si",24862,138173,57,68,312,162,542,54429
+"Jeollabuk-do","Iksan-si",24639,156065,99,82,304,189,972,58467
+"Jeollabuk-do","Jeongeup-si",8479,63828,26,33,252,153,466,23505
+"Jeollabuk-do","Namwon-si",6583,46681,57,54,205,138,503,15846
+"Jeollabuk-do","Gimje-si",8185,49430,32,25,161,106,384,19198
+"Jeollabuk-do","Wanju-gun",6926,45422,15,68,175,118,294,15616
+"Jeollabuk-do","Jinan-gun",2764,14262,11,15,105,80,151,5472
+"Jeollabuk-do","Muju-gun",3470,12290,13,10,90,73,149,5240
+"Jeollabuk-do","Jangsu-gun",2236,12567,6,19,82,64,139,4412
+"Jeollabuk-do","Imsil-gun",2386,16884,14,12,140,83,176,6186
+"Jeollabuk-do","Sunchang-gun",2093,16797,10,27,124,69,194,5689
+"Jeollabuk-do","Gochang-gun",4328,32729,23,31,309,122,304,12593
+"Jeollabuk-do","Buan-gun",5986,30003,30,25,177,109,292,13146
+"Jeollanam-do","Mokpo-si",11971,128448,22,75,242,145,465,45219
+"Jeollanam-do","Yeosu-si",15662,159415,119,109,392,250,1302,53158
+"Jeollanam-do","Suncheon-si",14638,149610,49,61,269,146,631,43390
+"Jeollanam-do","Naju-si",4984,51150,62,41,242,159,415,17038
+"Jeollanam-do","Gwangyang-si",12918,74467,24,28,197,98,365,24769
+"Jeollanam-do","Damyang-gun",3084,28099,19,27,192,81,244,8890
+"Jeollanam-do","Jangseong-gun",3532,25567,22,25,147,81,217,9106
+"Jeollanam-do","Gokseong-gun",2255,17810,14,10,127,85,203,5842
+"Jeollanam-do","Gurye-gun",2230,15328,13,11,59,47,145,5117
+"Jeollanam-do","Goheung-gun",5193,41139,29,31,284,171,516,14754
+"Jeollanam-do","Boseong-gun",3470,26054,31,22,163,107,302,10010
+"Jeollanam-do","Hwasun-gun",3685,37716,64,30,241,118,498,12300
+"Jeollanam-do","Jangheung-gun",2808,23468,21,18,175,82,245,8377
+"Jeollanam-do","Gangjin-gun",3023,21316,25,16,108,60,231,8508
+"Jeollanam-do","Wando-gun",3152,30236,9,26,213,108,372,11013
+"Jeollanam-do","Haenam-gun",4747,41882,55,45,240,130,540,17431
+"Jeollanam-do","Jindo-gun",2073,18052,14,17,134,97,211,7380
+"Jeollanam-do","Yeongam-gun",3965,31577,28,24,107,86,294,12263
+"Jeollanam-do","Muan-gun",4230,41849,42,58,167,123,319,13456
+"Jeollanam-do","Yeonggwang-gun",3768,30835,23,23,297,120,228,11821
+"Jeollanam-do","Hampyeong-gun",1958,20984,19,21,145,88,213,7260
+"Jeollanam-do","Sinan-gun",2950,23345,28,41,197,105,295,11700
+"Sejong-si","Sejong-si",33587,30787,31,38,99,155,293,22717
+"Seoul","Jongno-gu",49422,52747,73,86,211,97,553,38258
+"Seoul","Jung-gu",40289,41919,67,56,151,71,542,32182
+"Seoul","Yongsan-gu",76997,69572,87,96,261,121,715,58816
+"Seoul","Seongdong-gu",88658,95239,112,113,315,159,970,63948
+"Seoul","Gwangjin-gu",106675,122537,118,131,385,200,1125,76419
+"Seoul","Dongdaemun-gu",107972,116909,164,151,398,196,1387,78126
+"Seoul","Jungnang-gu",121391,129630,152,138,364,255,1439,94960
+"Seoul","Seongbuk-gu",134557,158429,174,181,459,251,1474,101174
+"Seoul","Gangbuk-gu",94479,111470,169,110,341,171,1187,78191
+"Seoul","Dobong-gu",106942,116266,128,150,404,193,1147,71291
+"Seoul","Nowon-gu",170114,194546,220,203,689,326,1905,105738
+"Seoul","Eunpyeong-gu",135878,162177,213,212,543,270,1630,108543
+"Seoul","Seodaemun-gu",88811,105412,156,147,378,154,1072,65410
+"Seoul","Mapo-gu",106921,133849,114,246,460,262,1174,76475
+"Seoul","Yangcheon-gu",141933,154539,164,152,576,248,1345,91395
+"Seoul","Gangseo-gu",162212,184866,173,186,617,317,1652,113548
+"Seoul","Guro-gu",123106,143695,151,182,439,249,1272,81279
+"Seoul","Geumcheon-gu",66316,79933,97,112,213,132,829,55176
+"Seoul","Yeongdeungpo-gu",118167,125657,134,149,498,210,1160,81322
+"Seoul","Dongjak-gu",117538,140437,154,143,514,227,1294,77899
+"Seoul","Gwanak-gu",134105,196560,201,260,630,287,1597,113270
+"Seoul","Seocho-gu",158112,110649,68,129,680,147,1063,81792
+"Seoul","Gangnam-gu",205563,134880,111,142,829,234,1461,118372
+"Seoul","Songpa-gu",217650,198590,194,177,897,304,1819,125738
+"Seoul","Gangdong-gu",150764,147131,165,141,577,226,1358,96656
+"Ulsan","Jung-gu",90238,53304,41,74,148,285,509,40487
+"Ulsan","Nam-gu",129515,80536,52,88,291,361,615,57896
+"Ulsan","Dong-gu",58969,47401,40,81,150,266,398,30058
+"Ulsan","Buk-gu",57809,49202,28,119,148,219,350,26647
+"Ulsan","Ulju-gun",77446,45008,49,72,161,332,633,36035
