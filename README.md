@@ -45,6 +45,6 @@ Number of blank ballots refers to the number of voters who did not vote, even th
 
 - Gyeonggi-do *Yeoju-gun* became *Yeoju-si* on 2013.09.23.
 - Chungcheongbuk-do *Cheongwon-gun* became *Cheongwon-gu* on 2014.07.01. 
-- Bucheon-si *Wonmi-gu*, *Sosa-gu*, *Ojeong-gu* disapperaed on 2016.07.04.
+- Bucheon-si *Wonmi-gu*, *Sosa-gu*, *Ojeong-gu* disappeared on 2016.07.04.
 - Incheon *Nam-gu* changed their name to *Michuhol-gu* on 2018.07.01.
 
