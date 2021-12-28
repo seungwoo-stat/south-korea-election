@@ -4,6 +4,14 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 
 
 
+### Repo Description
+
+- [`code`](code): R codes for converting raw excel files to one csv file.
+- [`csv`](csv): data set generated for use.
+- [`raw`](raw): raw data files fetched from National Election Commission (NEC) of Korea.
+
+
+
 ### List of Data Sets
 
 - 2017.05.09., 19th presidential election (n = 250)
