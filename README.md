@@ -9,6 +9,7 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 - [`code`](code): R codes for converting raw excel files to one csv file.
 - [`csv`](csv): data set generated for use.
 - [`raw`](raw): raw data files fetched from National Election Commission (NEC) of Korea.
+- [`kor2eng.xlsx`](kor2eng.xlsx): list of Korean district names in English.
 
 
 
