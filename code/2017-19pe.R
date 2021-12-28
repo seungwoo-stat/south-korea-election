@@ -9,7 +9,7 @@ filenames <- list.files("../raw/2017-19pe")
 for(i in seq_along(filenames)){
   x <- read_excel(paste0("../raw/2017-19pe/",filenames[i]), skip = 6, col_names = FALSE)[,-c(2:3,11,18)]
   colnames(x) <- c("secondary_cluster",
-                   "Moon Jae-in (Deomcratic)",
+                   "Moon Jae-in (Democratic)",
                    "Hong Joon-pyo (Liberty Korea)",
                    "Ahn Cheol-soo (People's)",
                    "Yoo Seong-min (Bareum)",
