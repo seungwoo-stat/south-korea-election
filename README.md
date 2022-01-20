@@ -19,6 +19,8 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 - 2012.12.19., 18th presidential election (n = 251)
 - 2007.12.19., 17th presidential election (n = 248)
 - 2002.12.19., 16th presidential election (n = 244)
+- 1997.12.18., 15th presidential election (n = 303)
+  - In this election, some secondary clusters are separated into "gap", "eul", "byeong" regions (meaning orderings in Korea). These characters are replaced to -A, -B, -C, respectively. 
 
 
 
@@ -95,4 +97,10 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 - Gyeonggi-do *Pocheon-gun* became *Pocheon-si* on 2003.
 - Jeju-do *Bukjeju-gun* got incorporated into *Jeju-si* on 2006.
 - Jeju-do *Namjeju-gun* got incorporated into *Seogwipo-si* on 2006.
+- Gyeonggi-do *Hwaseong-gun* became *Hwaseong-si* on 2001.03.21.
+- Gyeonggi-do *Gwangju-gun* became *Gwangju-si* on 2001.03.21.
+- Gyeonggi-do *Gimpo-gun* became *Gimpo-si* on 1998.04.01.
+- Gyeonggi-do *Anseong-gun* became *Anseong-si* on 1998.04.01.
+- Gyeongsangnam-do *Hoewon-gu, Masan-si* and *Happo-gu, Masan-si* disappeared from the 16th pe.
+- Jeollanam-do *Yeocheon-si* and *Yeocheon-gun* got incorporated into *Yeosu-si* on 1998.04.01.
 
