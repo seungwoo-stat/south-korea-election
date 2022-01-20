@@ -6,7 +6,7 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 
 ### Repo Description
 
-- [`code`](code): R codes for converting raw excel files to one csv file.
+- [`code`](code): R codes for converting raw excel files to a single csv file per election.
 - [`csv`](csv): data set generated for use.
 - [`raw`](raw): raw data files fetched from National Election Commission (NEC) of Korea.
 - [`kor2eng.xlsx`](kor2eng.xlsx): list of Korean district names in English.
@@ -15,12 +15,15 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 
 ### List of Data Sets
 
+- 2022.03.09., 20th presidential election (to be updated) 
 - 2017.05.09., 19th presidential election (n = 250)
 - 2012.12.19., 18th presidential election (n = 251)
 - 2007.12.19., 17th presidential election (n = 248)
 - 2002.12.19., 16th presidential election (n = 244)
 - 1997.12.18., 15th presidential election (n = 303)
-  - In this election, some secondary clusters are separated into "gap", "eul", "byeong" regions (meaning orderings in Korea). These characters are replaced to -A, -B, -C, respectively. 
+  - From this election and previously held ones, some secondary clusters are separated into "gap", "eul", "byeong" regions (indicate orderings in Korea). These characters are replaced to -A, -B, -C, respectively. 
+- 1992.12.18., 14th presidential election (to be updated)
+- 1987.12.16., 13th presidential election (to be updated)
 
 
 
@@ -52,7 +55,7 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 ```
 
 - First two columns denote primary and secondary clusters.
-- Secondary clusters are **not** identical for two data sets. See [Misc.](#misc) for details.
+- Secondary clusters are **not** identical for all data sets. See [Misc.](#misc) for details.
 
 ```R
 > eight <- read.csv("csv/18pe.csv")
