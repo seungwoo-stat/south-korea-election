@@ -18,6 +18,7 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 - 2017.05.09., 19th presidential election (n = 250)
 - 2012.12.19., 18th presidential election (n = 251)
 - 2007.12.19., 17th presidential election (n = 248)
+- 2002.12.19., 16th presidential election (n = 244)
 
 
 
@@ -81,20 +82,17 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 ### Misc.
 
 - Gyeonggi-do *Yeoju-gun* became *Yeoju-si* on 2013.09.23.
-
 - Chungcheongbuk-do *Cheongwon-gun* became *Cheongwon-gu* on 2014.07.01. 
-
 - Bucheon-si *Wonmi-gu*, *Sosa-gu*, *Ojeong-gu* disappeared on 2016.07.04.
-
 - Incheon *Nam-gu* changed their name to *Michuhol-gu* on 2018.07.01.
-
 - *Cheonan-si* separated to two regions (*Seobuk-gu, Cheonan-si* and *Dongnam-gu, Cheonan-si*) from the 18th pe.
-
 - Chungcheongnam-do *Yeongi-gun* incorporated into *Sejong-si* as of 2012.07.01.
-
 - Chungcheongnam-do *Dangjin-gun* became *Dangjin-si* on 2012.01.01. 
-
 - Gyeongsangnam-do *Changwon-si* separated to five regions from the 18th pe. This is due to incorporation of *Masan-si* and *Jinhae-si*  into *Changwon-si*.
-
-  
+- Gyeonggi-do *Yangju-gun* became *Yangju-si* on 2003.
+- Gyeonggi-do *Ilsan-si* separated to *Ilsandong-gu* and *Ilsanseo-gu* on 2005.
+- Gyeonggi-do *Yongin-si* separated to three regions from 17th pe.
+- Gyeonggi-do *Pocheon-gun* became *Pocheon-si* on 2003.
+- Jeju-do *Bukjeju-gun* got incorporated into *Jeju-si* on 2006.
+- Jeju-do *Namjeju-gun* got incorporated into *Seogwipo-si* on 2006.
 
