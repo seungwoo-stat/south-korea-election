@@ -1,6 +1,6 @@
 # South Korea Election
 
-Election results in South Korea (Republic of Korea), for compositional data analysis. 
+Presidential election results in South Korea (Republic of Korea) held in the Sixth Republic (1988~), for compositional data analysis. 
 
 
 
@@ -22,8 +22,7 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 - 2002.12.19., 16th presidential election (n = 244)
 - 1997.12.18., 15th presidential election (n = 303)
   - From this election and previously held ones, some secondary clusters are separated into "gap", "eul", "byeong" regions (indicate orderings in Korea). These characters are replaced to -A, -B, -C, respectively. 
-- 1992.12.18., 14th presidential election (to be updated)
-- 1987.12.16., 13th presidential election (to be updated)
+- 1992.12.18., 14th presidential election (n = 308)
 
 
 
@@ -106,4 +105,55 @@ Election results in South Korea (Republic of Korea), for compositional data anal
 - Gyeonggi-do *Anseong-gun* became *Anseong-si* on 1998.04.01.
 - Gyeongsangnam-do *Hoewon-gu, Masan-si* and *Happo-gu, Masan-si* disappeared from the 16th pe.
 - Jeollanam-do *Yeocheon-si* and *Yeocheon-gun* got incorporated into *Yeosu-si* on 1998.04.01.
-
+- *Ulsan* separated from *Gyeongsangnam-do* from 1997 election.
+- Chungcheongbuk-do *Jecheon-gun* got incorporated into *Jecheon-si* on 1995.
+- Chungcheongbuk-do *Jungwon-gun* got incorporated into *Chungju-si* on 1995.
+- Chungcheongnam-do *Gongju-gun* got incorporated into *Gongju-si* on 1995.
+- Chungcheongnam-do *Daecheon-si* and *Boryeong-gun* became *Boryeong-si* on 1995.
+- Chungcheongnam-do *Onyang-si* and *Asan-gun* became *Asan-si* on 1995.
+- Chungcheongnam-do *Nonsan-gun* became *Nonsan-si* on 1996.
+- Chungcheongnam-do *Seosan-gun* became *Seosan-si* on 1995.
+- Chungcheongnam-do *Cheonan-gun* got incorporated into*Cheonan-si* on 1995.
+- Gangwon-do *Myungju-gun* got incorporated into *Gangneung-si* on 1995.
+- Gangwon-do *Samcheok-gun* became *Samcheok-si* on 1995.
+- Gangwon-do *Chuncheon-gun* became *Chuncheon-si* on 1995.
+- Gangwon-do *Wonju-gun* got incorporated into *Wonju-si* on 1995.
+- Gyeonggi-do *Jung-gu, Bucheon-si* and *Nam-gu, Bucheon-si* got separated or changed their names on 1993.
+- Gyeonggi-do *Songtan-si* and *Pyeongtaek-gun* got incorporated into *Pyeongtaek-si* on 1995.
+- Incheon *Ongjin-gun* became Gyeonggi-do on 1995.
+- Gyeonggi-do *Migeum-si* and *Namyangju-gun* got incorporated into *Namyangju-si* on 1995.
+- Gyeonggi-do *Paju-gun* became *Paju-si* on 1996.
+- Gyeonggi-do *Icheon-gun* became *Icheon-si* on 1996.
+- Gyeonggi-do *Yongin-gun* became *Yongin-si* on 1996.
+- Gyeonggi-do *Ganghwa-gun* became Incheon on 1995.
+- Gyeongsangbuk-do *Pohang-si* separated into *Nam-gu* and *Buk-gu* on 1995.
+- Gyeongsangbuk-do *Youngil-gun* got incorporated into *Pohang-si* on 1995.
+- Gyeongsangbuk-do *Geumreung-gun* got incorporated into *Gimcheon-si* on 1995.
+- Gyeongsangbuk-do *Yeongpung-gun* goe incorporated into *Yeongju-si* on 1995.
+- Gyeongsangbuk-do *Yeongcheon-gun* became *Yeongcheon-si* on 1995.
+- Gyeongsangbuk-do *Sangju-gun* became *Sangju-si* on 1995.
+- Gyeongsangbuk-do *Jeomchon-si* and *Mungyeong-gun* got incorporated into *Mungyeong-si* on 1995.
+- Gyeongsangbuk-do *Dalseong-gun* became Daegu on 1995.
+- Gyeongsangbuk-do *Seonsan-gun* became *Gumi-si* on 1995.
+- Gyeongsangbuk-do *Andong-gun* became *Andong-si* on 1995.
+- Gyeongsangbuk-do *Gyeongju-gun* became *Gyeongju-si* on 1995.
+- Gyeongsangbuk-do *Gyeongsan-gun* became *Gyeongsan-si* on 1995.
+- Ulsan got separated from Gyeongsangnam-do on 1997.
+- Gyeongsangnam-do *Changwon-gun* became *Changwon-si* and *Masan-si* on 1995.
+- Gyeongsangnam-do *Tongyeong-gun* and *Chungmu-si* became *Tongyeong-si* on 2995.
+- Gyeongsangnam-do *Samcheonpo-si* and *Sacheon-gun* became *Sacheon-si* on 1995.
+- Gyeongsangnam-do *Gimhae-gun* became *Gimhae-si* on 1995.
+- Gyeongsangnam-do *Jinyang-gun* became *Jinju-si* on 1995.
+- Gyeongsangnam-do *Miryang-gun* became *Miryang-si* on 1995.
+- Gyeongsangnam-do *Yangsan-gun* became *Yangsan-si* on 1996.
+- Gyeongsangnam-do *Ulsan-gun* became *Ulsan-si* on 1995.
+- Gyeongsangnam-do *Jangseungpo-si* and *Geoje-gun* became *Geoje-si* on 1995.
+- Incheon *Buk-gu* got separated into *Gyeyang-gu* and *Bupyeong-gu* on 1995.
+- Jeollabuk-do *Iri-si* and *Iksan-gun* became *Iksan-si* on 1995.
+- Jeollabuk-do *Jeongeup-gun* and *Jungju-si* became *Jeongeup-si* on 1995.
+- Jeollabuk-do *Namwon-gun* became *Namwon-si* on 1995.
+- Jeollabuk-do *Gimje-gun* became *Gimje-si* on 1995.
+- Jeollabuk-do *Okgu-gun* became *Gunsan-si* on 1995.
+- Jeollanam-do *Naju-gun* became *Naju-si* on 1995.
+- Jeollanam-do *Seungju-gun* became *Suncheon-si* on 1995.
+- Jeollanam-do *Gwangyang-gun* and *Donggwangyang-si* became *Gwangyang-si* on 1995.
