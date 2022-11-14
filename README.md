@@ -15,7 +15,7 @@ Presidential election results in South Korea (Republic of Korea) held in the Six
 
 ### List of Data Sets
 
-- 2022.03.09., 20th presidential election (to be updated) 
+- 2022.03.09., 20th presidential election (n = 250) 
 - 2017.05.09., 19th presidential election (n = 250)
 - 2012.12.19., 18th presidential election (n = 251)
 - 2007.12.19., 17th presidential election (n = 248)
