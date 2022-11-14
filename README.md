@@ -85,6 +85,7 @@ Presidential election results in South Korea (Republic of Korea) held in the Six
 
 ### Misc.
 
+- Incheon *Nam-gu* became *Michuhol-gu* on 2018.07.01.
 - Gyeonggi-do *Yeoju-gun* became *Yeoju-si* on 2013.09.23.
 - Chungcheongbuk-do *Cheongwon-gun* became *Cheongwon-gu* on 2014.07.01. 
 - Bucheon-si *Wonmi-gu*, *Sosa-gu*, *Ojeong-gu* disappeared on 2016.07.04.
